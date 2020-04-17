@@ -1,28 +1,68 @@
+--- 
 name: Habilidades
-title: Idiomas
-source:
-  - name: [Português]
-    stars: 5
-
-  - name: [Inglês]
-    stars: 3
-
-title: Programação
-source:
-  - name: [Bash/Linux]
-    stars: 4
-  - name: [Python]
-    stars: 3
-  - name: [JavaScript]
-    stars: 3
-  - name: [MongoDB]
-    stars: 3
-  - name: [ElasticSearch]
-    stars: 3  
-  - name: [HTML/CSS3]
-    stars: 2
-  - name: [Docker]
-    stars: 2
-  - name: [SQL]
-    stars: 2
-  
+topics: 
+  lang: 
+    source: 
+      - 
+        name: 
+          - Português
+        stars: 5
+      - 
+        name: 
+          - Inglês
+        stars: 3
+    title: Idiomas
+  prog: 
+    source: 
+      - 
+        name: 
+          - Bash
+        stars: 4
+      - 
+        name: 
+          - Python
+        stars: 3
+      - 
+        name: 
+          - JavaScript
+        stars: 3
+      - 
+        name: 
+          - MongoDB
+        stars: 3
+      - 
+        name: 
+          - ElasticSearch
+        stars: 3
+      - 
+        name: 
+          - HTML/CSS3
+        stars: 2
+      - 
+        name: 
+          - Docker
+        stars: 2
+      - 
+        name: 
+          - SQL
+        stars: 2
+    title: Programação
+  others: 
+    source: 
+      - 
+        name: 
+          - "Sistemas Operacionais"
+        stars: 4
+      - 
+        name: 
+          - "Redes de Computadores"
+        stars: 4
+      - 
+        name: 
+          - "Cloud Computing"
+        stars: 3
+      - 
+        name: 
+          - "AWS"
+        stars: 2
+    title: Outros
