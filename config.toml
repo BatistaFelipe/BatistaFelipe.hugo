@@ -1,19 +1,19 @@
 languageCode = "pt-BR"
 layoutdir = "layouts"
 publishdir = "public"
-baseurl = "https://batistafelipe.github.io/"
+baseurl = "https://felipebatista.dev/"
 # enable Google Analytics
 googleAnalytics = ""
 
 [params]
   author = "Felipe Marta Batista"
   title = "Felipe Marta Batista"
-  description = "SITE | Felipe Batista"
+  description = "Personal site of Felipe Marta Batista"
   avatar = "profile.png"
   email = "felipemartabatista@gmail.com"
   email_full = "mailto:felipemartabatista@gmail.com"
-  website = "batistafelipe.github.io"
-  website_full = "https://batistafelipe.github.io/"
+  website = "felipebatista.dev"
+  website_full = "https://felipebatista.dev/"
   github = "BatistaFelipe"
   linkedin = "felipe-batista-b42364156"
   # twitter = "twitter"
