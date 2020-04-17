@@ -1,0 +1,27 @@
+languageCode = "pt-BR"
+layoutdir = "layouts"
+publishdir = "public"
+baseurl = "https://felipebatista.github.io"
+# enable Google Analytics
+googleAnalytics = ""
+
+[params]
+  author = "Felipe Marta Batista"
+  title = "Felipe Marta Batista"
+  description = "SITE | Felipe Batista"
+  avatar = "profile.png"
+  email = "felipemartabatista@gmail.com"
+  email_full = "mailto:felipemartabatista@gmail.com"
+  website = "felipebatista.github.io"
+  website_full = "https://felipebatista.github.io/"
+  github = "BatistaFelipe"
+  linkedin = "felipe-batista-b42364156"
+  # twitter = "twitter"
+  tel = "+55 51 985588354"
+  tel_full = "+5551985588354"
+  city = "Gravataí, RS"
+  country = "Brasil"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+

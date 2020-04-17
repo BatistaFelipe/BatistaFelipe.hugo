@@ -1,0 +1,22 @@
+name: EDUCAÇÃO
+source:
+  - title: Bacharel em Sistemas de Informação
+    univ: Unisinos
+    place: São Leopoldo, RS
+    date: 2018 a 2022 (Previsão)
+    type: Graduação
+    description: Criar soluções para melhorar o desempenho das empresas a partir do uso da tecnologia. 
+
+  - title: Formação Intensiva Linux - 96 Horas
+    univ: Sisnema
+    place: Porto Alegre, RS
+    date: 2018
+    type: Curso
+    description: Voltado a configurar e manter um servidor baseado no sistema operacional Linux, abordando também as configurações dos serviços de SAMBA, Diretório LDAP, Servidor WEB Apache e FTP.
+
+  - title: Técnico em Técnologia da Informação
+    univ: QI Faculdade e Escola Técnica
+    place: Gravataí, RS
+    date: 2016 a 2017
+    type: Curso Técnico
+    description: Focado no desenvolvimento de sistemas para diversas plataformas (web, dispositivos móveis, computadores pessoais). 

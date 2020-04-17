@@ -1,0 +1,21 @@
+name: Experiência Profissional
+source:
+  - prof: Gerente de Suporte em TI 
+    place: Codeseg Portaria Virtual
+    time: 2018 a atual
+    description: Efetuar manutenção dos sistemas de rede e clouding computing, implantação de novas tecnologias, levantamento de dados, suporte aos usuários e clientes.
+
+  - prof: Auxiliar Ténico 
+    place: Codeseg Portaria Virtual
+    time: 2017 a 2018
+    description: Encarregado de atender demandas de suporte técnico, manutenções de rede e de sistema VOIP, aplicação de novas tecnologias, efetuar documentação de processos e auxiliar na programação de software proprietário.
+
+  - prof: Operador de Atendimento
+    place: Codeseg Portaria Virtual
+    time: 2016 a 2017
+    description: Atendimento remoto a portaria de condomínios residenciais ou comerciais.
+
+  - prof: Jovem Aprendiz (Projeto Pescar) 
+    place: Vonpar S/A, Porto Alegre, RS
+    time: 2015
+    description: Seis meses de curso com foco em vendas e três meses de experiência no setor de crédito e cobrança. 
